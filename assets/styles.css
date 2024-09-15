@@ -1,0 +1,25 @@
+#demo {width:100%;
+        max-width:800px;
+        margin:auto;
+    }
+    .nav-item .dropdown-menu a:hover{
+        color: white !important;
+        background: pink !important;
+        cursor: pointer;
+      }
+
+.c-item {
+    height: 480px;
+}      
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:200px;
+}
+
